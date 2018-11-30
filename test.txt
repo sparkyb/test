@@ -1,2 +1,2 @@
 this is a test
-this is a conflicting edit
+this is a conflicting editI'm adding something here
